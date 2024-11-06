@@ -7,7 +7,7 @@ To clone the project, use the following commands:
 
 ```
 git clone https://github.com/ShahnozaAbdualimova/svelte-template.git
-cd project-name
+cd svelte-template
 ```
 ### Requirements
 To run this project, you’ll need the following:
@@ -21,7 +21,7 @@ To install Node.js, visit the [official Node.js website](https://nodejs.org/).
 1. **Navigate to the project folder:**
 
    ```
-   cd project-name
+   cd svelte-template
    ```
 2. **Install the necessary packages:**
 
