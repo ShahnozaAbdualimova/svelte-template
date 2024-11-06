@@ -38,7 +38,7 @@ To install Node.js, visit the [official Node.js website](https://nodejs.org/).
 
 Here are some useful links:
 
-- **Vue.js 3 Official Documentation**: [Vue.js Docs](https://svelte.org/)
+- **SvelteKit Official Documentation**: [SvelteKit Docs]([https://svelte.org/](https://svelte.dev/))
 - **TailwindCSS Official Documentation**: [TailwindCSS Docs](https://tailwindcss.com/)
 - **GitHub Markdown Guide**: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
