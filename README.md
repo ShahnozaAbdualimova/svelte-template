@@ -6,7 +6,7 @@ Description: This project is a SvelteKit and TailwindCSS-based template, ideal f
 To clone the project, use the following commands:
 
 ```
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/ShahnozaAbdualimova/svelte-template.git
 cd project-name
 ```
 ### Requirements
