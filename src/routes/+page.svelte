@@ -1,11 +1,8 @@
 <script>
-import '../app.css'
+    import Hero from '$lib/components/Home/Hero.svelte';
+    import '../app.css';
 </script>
 
-<section>
-    <h1 class="text-red-500">hello</h1>
+<section class="w-full h-screen">
+    <Hero/>
 </section>
-
-<style>
-
-</style>
